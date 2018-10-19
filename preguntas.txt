@@ -1,0 +1,14 @@
+1. Contiene todo el contenido del arreglo de bitacoras
+2.Cancela el evento si se puede cancelar
+3. Contiene cada uno de los elementos del arbol dom
+4. la varaible tr y td contiene los nodos
+5. Posee todo el contenido que tendra el nodo
+6. Tendra todos las filas de la tabla 
+7. Te va a crear un nuevo elemento y se guardara en la variable content todas las filas y columnas
+8. Tiene todos los nodos hijos del el tbody
+9. Se me eliminara los nodos hijos del elemento tbody
+10.Contiene todos los nodos hijos 
+11.Devuelve el primer elemento que contenga el selector ".tabla-btc tbody"
+12.Cuenta cuentos nodos hijos  posee el selector ".tabla-btc tbody"
+13.Se agregan los elementos a la lista
+14. Te muestra todos los datos que se le metieron a la tabla
